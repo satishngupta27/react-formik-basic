@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+.form-control{
+  margin: 20px;
+  text-align: center;
+  justify-content: start;
+  
+}
+.error{
+  color: red;
+}
+label{
+  display: block;
+}
+
+
+input{
+  outline: none;
+  border-radius: 5px;
+  border-bottom: 1px solid gray;
+  padding: 10px 0px;
+  width: 300px;
+ 
+  
+}
